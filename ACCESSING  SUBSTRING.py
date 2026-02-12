@@ -17,7 +17,7 @@ print(a[-4])
 print(a[-5])
 
 #Slicing
-b = "HELLO BUDDY"
+b = "HELLO USER"
 print(b[0 : 5])
 print(b[4: ])
 print(b[ :3])
